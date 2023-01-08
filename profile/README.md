@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/luizcarloscf">
-        <img alt="UFES logo" src="../static/ufes-logo.png" height="200em"  />
+    <a href="https://www.ufes.br/">
+        <img alt="UFES logo" src="https://raw.githubusercontent.com/autonomous-robots/.github/main/static/ufes-logo.png" height="200em"  />
     </a>
 </p>
 
