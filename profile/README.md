@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi there! 👋 </h1>
 
-We are a group of students at [UFES](https://www.ufes.br/). In the second semester of 2022, [Prof. Ricardo Carminati de Mello](http://lattes.cnpq.br/1569638571582691) offered a class called "Autonomous Robots". The main class porpuse is to formalize and explore advanced concepts of autonomy in robotics through the study of literature consolidation and practical implementations. You can find in this organization all work develop by our group during the semester.
+We are a group of students at [UFES](https://www.ufes.br/). In the second semester of 2022, [Prof. Ricardo Carminati de Mello](http://lattes.cnpq.br/1569638571582691) offered the Autonomous Robots course. The course's purpose is to formalize and explore advanced concepts of autonomy in robotics through the study of literature consolidation and practical implementations. You can find in this organization all work develop by our group during the semester.
 
 ---
 <details>
